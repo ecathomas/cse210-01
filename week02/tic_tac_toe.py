@@ -13,5 +13,5 @@ def print_board(board):
 
 print_board(board)
 
-while True:
-    user_input = input("Please enter a position 1-9 or enter q to quit.")
+#while True:
+#    user_input = input("Please enter a position 1-9 or enter q to quit.")
